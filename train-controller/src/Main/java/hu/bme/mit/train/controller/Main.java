@@ -1,4 +1,5 @@
 package hu.bme.mit.train.controller;
+import hu.bme.mit.train.controller.TrainControllerImpl;
 
 public class Main {
     public static void main(String[] args) {
